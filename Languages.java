@@ -102,7 +102,7 @@ class Cntr {          // Counter
     }
 }
 //[72]//////////////////////////////////////////////////////////////////
-class CntrComp implements Comparator< Cntr >{
+class CntrComp implements Comparator <Cntr> {
     public int compare( Cntr a, Cntr b ){
         final double f = a.fq;
         final double g = b.fq;
@@ -113,7 +113,6 @@ class CntrComp implements Comparator< Cntr >{
 class CharSet {
     private static final int A_CODE = Character.getNumericValue( 'A' );
     private static final int Z_CODE = Character.getNumericValue( 'Z' );
-    private static final char SPACE = ' ';
     private static final char[] SET = {
         ' ','A','B','C','D','E','F','G','H',
         'I','J','K','L','M','N','O','P','Q',
