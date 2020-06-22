@@ -2,8 +2,6 @@
 
 **Languɐges** ୭rob [[ clck ]](https://ioinformatics.org/files/ioi1991round1.pdf);
 
-![](pix/vandal-1.png)
-
 ![](pix/KeHaTa_gHec_4.png)
 
 [[ One Summer's Day ]](https://youtu.be/XrTvMDAiEdg)
